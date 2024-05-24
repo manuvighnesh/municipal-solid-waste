@@ -1,0 +1,4 @@
+0 Bio-degradable
+1 plastic
+2 paper
+3 metal
